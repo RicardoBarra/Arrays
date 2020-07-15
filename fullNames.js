@@ -9,4 +9,5 @@ const fullNames = patients.map((patient) => {
 
 })
 
+console.log(patient)
 console.log(fullNames)

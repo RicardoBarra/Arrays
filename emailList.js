@@ -7,4 +7,5 @@ const emailAdresses = patients.map((patient) => {
 
 })
 
+console.log(patients)
 console.log(emailAdresses)
